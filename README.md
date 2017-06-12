@@ -1,14 +1,14 @@
 # About the UBI-examples Repository
-This repo contains Universal Basic Income (UBI) analyses. These analyses can serve as examples for integrating Tax-Calculator, TaxData, and C-TAM. 
+This repo contains Universal Basic Income (UBI) analyses. These analyses can serve as examples for integrating Tax-Calculator, TaxData, and C-TAM.
 
 ## Overview of analyses
 
 ### Ex. 1: A Budget-Neutral Universal Basic Income, AEI Economics Working Paper 2017-10
-- [Link to "Working Paper PDF" in repo at ex1/UBI-working-paper.pdf]
-- [Link to "Working Paper Google Doc" that generates the PDF.]
-- [Link to "Scripts" that generates tables for working paper in repo at ex1/filename.pdf] 
+- [A Budget-Neutral Universal Basic Income Working Paper](ex1/UBI-working-paper.pdf)
+- [Working Paper Google Doc](https://docs.google.com/document/d/1LKwM0_V2t6Ns7fjI8r45Fv2h_uCOCFx78m1p6nwxX7s/edit?usp=sharing)
+- [Scripts to generate the tables in the working paper](ex1/UBI-Working-Paper-Notebook.ipynb)
 
-### Ex. 2: Untitled, Under Development 
+### Ex. 2: Untitled, Under Development
 - [Link to Development Folder in repo at ex2/]
 
 ## Abstracts
