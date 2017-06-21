@@ -6,7 +6,7 @@ This repo contains Universal Basic Income (UBI) analyses. These analyses can ser
 ### Ex. 1: A Budget-Neutral Universal Basic Income, AEI Economics Working Paper 2017-10
 - [A Budget-Neutral Universal Basic Income Working Paper](ex1/UBI-working-paper.pdf)
 - [Working Paper Google Doc](https://docs.google.com/document/d/1LKwM0_V2t6Ns7fjI8r45Fv2h_uCOCFx78m1p6nwxX7s/edit?usp=sharing)
-- [Scripts to generate the tables in the working paper](ex1/UBI-Working-Paper-Notebook.ipynb)
+- [Scripts to generate the tables in the working paper](ex1/notebook)
 
 ### Ex. 2: Untitled, Under Development
 - [Link to Development Folder in repo at ex2/]
