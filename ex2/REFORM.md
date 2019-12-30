@@ -1,0 +1,73 @@
+# Changes to federal individual income tax code and benefits/transfer system for budget-neutral UBI analysis
+
+## Individual Income Tax Base-Narrowing Provisions Repealed:
+
+- Itemized Deductions
+	- Medical expenses
+	- State and local taxes plus real estate taxes
+	- Interest payments
+	- Charity contributions
+	- Net casualty or theft loss
+	- Net limited miscellaneous deductions
+- Above-the-Line Deductions
+	- Student loan interest
+	- Self-employment tax
+	- Self-employment health insurance
+	- Contributions to KEOGH or SEP plan
+	- Early withdrawal penalty
+	- Alimony received
+	- Educator expenses
+	- HSA contributions
+	- IRA contributions
+	- Business losses
+	- Childcare costs
+- Other deductions
+- 	Qualified business income
+- Credits
+	- Retirement savings
+	- Foreign tax
+	- Residential energy
+	- General business
+	- Minimum tax
+	- American Opportunity Credit
+	- Schedule R
+	- Education
+	- Child Tax Credit
+	- Other dependent care
+	- Earned income tax credit (EITC)
+
+## Benefits/Transfer Programs Repealed:
+
+- Housing Benefits
+- Supplemental Security Income (SSI)
+- Supplemental Nutrition Assistance Program (SNAP)
+- Temporary Assistance for Needy Families (TANF)
+- Veterans Benefits
+- Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)
+- Medicare
+- Medicaid
+- Social Security (OASDI)
+- Unemployment Insurance
+- Children’s Health Insurance
+- Indian health
+- Health resources and services
+- Substance abuse and mental health services
+- Center for Medicare and Medicaid Innovation
+- Refundable premium tax credit and cost sharing reductions
+- Student assistance--Department of Education
+- Child nutrition and special milk programs
+- Commodity donations
+- Low income home energy assistance
+- Payments to states--daycare assistance
+- Payments to states--foster care/adoption assistance
+- Other public assistance
+- Coal miners and black lung benefits
+- Aging services programs
+- Energy employees compensation fund
+- Refugee assistance
+- Farm income stabilization
+- Agricultural research and services
+- Community development
+- Area and regional development
+- Disaster relief and insurance
+- Social services
