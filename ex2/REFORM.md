@@ -22,7 +22,7 @@
 	- Business losses
 	- Childcare costs
 - Other deductions
-- 	Qualified business income
+	- Qualified business income
 - Credits
 	- Retirement savings
 	- Foreign tax
